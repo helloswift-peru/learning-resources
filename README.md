@@ -32,6 +32,7 @@ Crear una biblioteca abierta de aprendizaje colaborativo donde cualquier miembro
 
 ## 🧩 Cómo contribuir
 
+0. Crea un Pull Request siguiendo la [guía de contribución](./CONTRIBUTING.md).
 1. **Elige un tema** (por ejemplo, `SwiftUI/animations`).
 2. **Crea una carpeta** con un nombre descriptivo:
 
@@ -86,15 +87,6 @@ Usa las etiquetas para organizar tus aportes:
 * `help wanted` → se busca apoyo para completar un ejemplo.
 * `good first issue` → ideal para nuevos colaboradores.
 * `needs review` → requiere revisión antes de merge.
-
----
-
-## 🌟 Próximas ideas
-
-* “Swift Challenges” mensuales.
-* Retos de arquitectura y performance.
-* Sección especial para principiantes: *“30 días de Swift”*.
-* Mini tutoriales en video o GIFs.
 
 ---
 
