@@ -1,4 +1,12 @@
 # 🛠️ Guía para Contribuir — Learning Resources
+# 🛠️ Guía para Contribuir — Learning Resources
+# 🛠️ Guía para Contribuir — Learning Resources
+# 🛠️ Guía para Contribuir — Learning Resources
+# 🛠️ Guía para Contribuir — Learning Resources
+# 🛠️ Guía para Contribuir — Learning Resources
+# 🛠️ Guía para Contribuir — Learning Resources
+# 🛠️ Guía para Contribuir — Learning Resources
+# 🛠️ Guía para Contribuir — Learning Resources
 
 Gracias por tu interés en contribuir al repositorio **Learning Resources** de HelloSwift Perú 🎉
 
