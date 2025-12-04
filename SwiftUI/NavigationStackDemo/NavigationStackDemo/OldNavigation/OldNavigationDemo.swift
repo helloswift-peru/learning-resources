@@ -44,6 +44,9 @@ struct ProfileView_Old: View {
             Text("Profile View")
             Text("User ID: \(userID)")
         }
+        .onAppear {
+//            viewModel.fetchUser(id: userID)
+        }
         .navigationTitle("Profile")
     }
 }

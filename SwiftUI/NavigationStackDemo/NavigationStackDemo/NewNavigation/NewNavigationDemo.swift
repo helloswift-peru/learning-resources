@@ -23,7 +23,7 @@ struct NewNavigationDemo: View {
                 }
 
                 Button("Deep Link → Profile 7 → Detail") {
-                    path = [.profile(id: 7), .detail]
+                    path = [.profile(id: 7), .detail, .register, .payments]
                 }
             }
             .navigationTitle("New Navigation")
@@ -39,6 +39,8 @@ struct NewNavigationDemo: View {
             DetailView_New()
         case .profile(let id):
             ProfileView_New(userID: id)
+        default:
+            EmptyView()
         }
     }
 }
